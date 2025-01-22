@@ -4,6 +4,7 @@
  - Improve LICENSE AND COPYRIGHT section in doc.
  - Improve SYNOPSIS section in doc.
  - Rename and regen image.
+ - Rename examples to better names.
  - Update Module::Install to 1.21 version.
  - Update author github username.
  - Update copyright years.

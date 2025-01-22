@@ -116,6 +116,8 @@ For more information about Singapore Map, click L<here|https://en.wikipedia.org/
 
 =head1 EXAMPLE1
 
+=for comment filename=print_singapore_route.pl
+
  use strict;
  use warnings;
 
@@ -135,6 +137,8 @@ For more information about Singapore Map, click L<here|https://en.wikipedia.org/
 
 =head1 EXAMPLE2
 
+=for comment filename=print_singapore_def_xml_file.pl
+
  use strict;
  use warnings;
 
@@ -153,6 +157,8 @@ For more information about Singapore Map, click L<here|https://en.wikipedia.org/
  # XML file: .*/singapore-map.xml
 
 =head1 EXAMPLE3
+
+=for comment filename=print_singapore_image.pl
 
  use strict;
  use warnings;
@@ -189,6 +195,8 @@ For more information about Singapore Map, click L<here|https://en.wikipedia.org/
 
 =head1 EXAMPLE4
 
+=for comment filename=print_singapore_lines.pl
+
  use strict;
  use warnings;
 
@@ -212,6 +220,8 @@ For more information about Singapore Map, click L<here|https://en.wikipedia.org/
  # North South MRT Line
 
 =head1 EXAMPLE5
+
+=for comment filename=print_singapore_line_stations.pl
 
  use strict;
  use warnings;
