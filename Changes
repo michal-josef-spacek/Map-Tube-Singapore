@@ -8,6 +8,7 @@
  - Update Module::Install to 1.21 version.
  - Update author github username.
  - Update copyright years.
+ - Update dependency to Map::Tube version 3.62.
 
 0.04 2017-11-22T08:53:42+01:00
  - Add test for ok_map_functions().
