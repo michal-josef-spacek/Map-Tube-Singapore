@@ -1,5 +1,6 @@
 0.05
  - Fix Makefile.PL and use lib.
+ - Fix stations on multiple lines.
  - Improve SYNOPSIS section in doc.
  - Update Module::Install to 1.21 version.
  - Update copyright years.
