@@ -185,12 +185,12 @@ For more information about Singapore Map, click L<here|https://en.wikipedia.org/
  system "ls -l Singapore.png";
 
  # Output like:
- # -rw-r--r-- 1 skim skim 341912 Oct 16 10:06 Singapore.png
+ # -rw-r--r-- 1 skim skim 294531 22. led 18.13 Singapore.png
 
 =begin html
 
-<a href="https://raw.githubusercontent.com/tupinek/Map-Tube-Singapore/master/images/ex3.png">
-  <img src="https://raw.githubusercontent.com/tupinek/Map-Tube-Singapore/master/images/ex3.png" alt="Mass Rapid Transit" width="300px" height="300px" />
+<a href="https://raw.githubusercontent.com/tupinek/Map-Tube-Singapore/master/images/Singapore.png">
+  <img src="https://raw.githubusercontent.com/tupinek/Map-Tube-Singapore/master/images/Singapore.png" alt="Mass Rapid Transit" width="300px" height="300px" />
 </a>
 
 =end html
