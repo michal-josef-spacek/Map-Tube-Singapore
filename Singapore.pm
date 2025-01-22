@@ -36,6 +36,7 @@ Map::Tube::Singapore - Interface to the Singapore Metro Map.
 =head1 SYNOPSIS
 
  use Map::Tube::Singapore;
+
  my $obj = Map::Tube::Singapore->new;
  my $routes_ar = $obj->get_all_routes($from, $to);
  my $line = $obj->get_line_by_id($line_id);

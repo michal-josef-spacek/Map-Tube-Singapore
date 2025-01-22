@@ -1,4 +1,5 @@
 0.05
+ - Improve SYNOPSIS section in doc.
 
 0.04 2017-11-22T08:53:42+01:00
  - Add test for ok_map_functions().
