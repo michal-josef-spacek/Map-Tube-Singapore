@@ -5,6 +5,7 @@
  - Improve SYNOPSIS section in doc.
  - Rename and regen image.
  - Update Module::Install to 1.21 version.
+ - Update author github username.
  - Update copyright years.
 
 0.04 2017-11-22T08:53:42+01:00
